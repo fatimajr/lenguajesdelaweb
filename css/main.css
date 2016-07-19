@@ -1,0 +1,10 @@
+h1{
+	color: red;
+	font-size: 20px;
+	font-family: Arial;
+	font-weight: 500;
+}
+ul li img{
+
+	border:1px blue solid;
+}
